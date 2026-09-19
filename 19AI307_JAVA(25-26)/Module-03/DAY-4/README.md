@@ -29,8 +29,8 @@ To implement weather prediction using interfaces with two bots — SunBot and Ra
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Nikshitha G
-RegisterNumber: 212223110031
+Developed by: Ajay Karthick R
+RegisterNumber: 212225230007
 */
 ```
 
